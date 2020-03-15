@@ -1,5 +1,5 @@
-## build
+## Build
     docker-compose build lending
 
-## run
+## Run
     docker-compose up lending
