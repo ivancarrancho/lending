@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+
+[packages]
+apispec = "==3.2.0"
+flask = "==1.0.2"
+flask-apispec = "==0.8.5"
+ipython = "==7.4.0"
+marshmallow = "==3.2.0"
+requests = "==2.21.0"
+
+tornado = "==6.0.4"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

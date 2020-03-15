@@ -1,0 +1,19 @@
+{
+  "name": "lending",
+  "version": "0.0.1",
+  "description": "Lending app",
+  "author": "Ivan Ramirez",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@..."
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "vue": "^2.6.11",
+    "popper.js": "^1.16.0",
+    "sweetalert2": "^9.10.0"
+  }
+}
