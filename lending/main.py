@@ -22,7 +22,6 @@
 import tornado.web
 import tornado.ioloop
 import os
-import json
 
 
 class DataForm(tornado.web.RequestHandler):
