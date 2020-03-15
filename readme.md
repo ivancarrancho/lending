@@ -1,2 +1,5 @@
+## build
+    docker-compose build lending
+
 ## run
-    npm install
+    docker-compose up lending
